@@ -12,7 +12,6 @@ I'm currently learning Python and using small game projects to practice programm
 - Functions and modules
 - Object-Oriented Programming (OOP)
 - Basic file handling and user input
-- Working with libraries like `random`, `pygame`, etc.
 
 ## 🎲 Games Included
 
