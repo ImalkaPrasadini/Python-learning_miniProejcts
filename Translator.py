@@ -10,5 +10,8 @@ def translator(word):
             transword = transword + letter
     return transword
 
-userInput = input('Enter word to translate: ')
-print(translator(userInput))
+try:
+    userInput = input('Enter word to translate: ')
+    print(translator(userInput))
+except ValueError as err:
+    print("Invalid input", err)
