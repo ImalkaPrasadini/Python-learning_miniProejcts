@@ -18,5 +18,7 @@ I'm currently learning Python and using small game projects to practice programm
 Here are some of the games in this repo (update this list as you add more):
 
 - **Guess the Word** 
-- **Pig Game** like simple
+- **Pig Game**
+- **MCQ**
+- **Trasnlator** like simple
 
